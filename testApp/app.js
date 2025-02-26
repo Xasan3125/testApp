@@ -3,3 +3,5 @@ function App() {
 }
 
 App();
+
+console.log("I am here!");
